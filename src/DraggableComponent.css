@@ -1,0 +1,14 @@
+.draggable-box {
+    border: 1px solid black;
+    width: 300px;
+    height: 200px;
+    position: relative;
+  }
+  
+  .title-bar {
+    background-color: lightgrey;
+    padding: 5px;
+    cursor: move;
+    user-select: none;
+  }
+  
